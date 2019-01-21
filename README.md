@@ -1,4 +1,4 @@
-# ecommerce-template-politica-de-troca
+# Ecommerce-template-politica-de-troca
 Licença: Unlicence - Faça oque bem entender com isso aqui!
 O Template, esta disponibilizado 'como esta' e eu me absento de qualquer responsabilidade e problemas causados pelo uso do mesmo.
 
