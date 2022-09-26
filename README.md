@@ -10,8 +10,7 @@ Windows -> Copiar com CTRL+C e colar CTRL+V.
 Mac Os->   Copie usando CMD+C para copiar e CMD+V para colar.
 
 
-Esta template é retirado de minha propria loja feita com a LojaIntegrada,  Veja como esta em 
-https://www.compreblackflag.com.br/pagina/politica-de-troca.html
+Este template é de minha propria autoria, e serve para qualquer loja online, como lojaIntegrada, shopee, VTEX ou mesmo wordpress.
 
 Por favor, não esqueçam de alterar conforme sua necessidade! Não serei responsável por informações incorretas prestado pelos SEUS serviços!
 
