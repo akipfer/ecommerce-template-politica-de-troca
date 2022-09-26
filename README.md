@@ -4,7 +4,8 @@ O Template, em linguagem HTML5, já formatação, esta disponibilizado 'como est
 
 Para quem tem um ecommerce, e gostaria de esclarecer aos clientes qual sua politica de troca, aqui esta um template!
 
-Como utilizar: Para utilizar, basta baixar ou apenas, copiar e colar!
+Como utilizar: Para utilizar, basta baixar ou apenas, copiar o conteúdo do template e colar!
+Conteúdo do template em -> https://github.com/akipfer/ecommerce-template-politica-de-troca/blob/master/template.html
 
 Windows -> Copiar com CTRL+C e colar CTRL+V.
 Mac Os->   Copie usando CMD+C para copiar e CMD+V para colar.
