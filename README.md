@@ -1,6 +1,6 @@
 # Ecommerce-template-politica-de-troca
-Licença: Unlicence - Faça oque bem entender com isso aqui!
-O Template, em linguagem HTML5, já formatação, esta disponibilizado 'como esta' e eu me absento de qualquer responsabilidade e problemas causados pelo uso do mesmo, seja por eventuais erros meu, ou má edição do mesmo!
+
+Licença: Unlicence - Faça oque bem entender com isso aqui! O Template, em linguagem HTML5, já com formatação, esta disponibilizado 'como está' e eu me absento de qualquer responsabilidade e problemas causados pelo uso do mesmo, seja por eventuais erros meu, ou má edição do mesmo por sua parte!
 
 Para quem tem um ecommerce, e gostaria de esclarecer aos clientes qual sua politica de troca, aqui esta um template!
 
